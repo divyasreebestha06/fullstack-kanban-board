@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+kanban.db
+node_modules/
